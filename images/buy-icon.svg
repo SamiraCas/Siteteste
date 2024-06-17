@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>buy-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="buy-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,2 C13.2693907,2 11.0280239,4.254 11.0280239,7 L11.0280239,8 L6.11770024,8 L6.05604773,8.938 L5.0616525,26.938 L5,28 L27,28 L26.9383475,26.938 L25.9439523,8.938 L25.8822998,8 L20.9719761,8 L20.9719761,7 C20.9719761,4.254 18.7306093,2 16,2 Z M16,4 C17.6467185,4 18.9831857,5.344 18.9831857,7 L18.9831857,8 L13.0168143,8 L13.0168143,7 C13.0168143,5.344 14.3532815,4 16,4 Z M7.98318568,10 L11.0280239,10 L11.0280239,13 L13.0168143,13 L13.0168143,10 L18.9831857,10 L18.9831857,13 L20.9719761,13 L20.9719761,10 L24.0168143,10 L24.8879045,26 L7.11209546,26 L7.98318568,10 Z" id="icon" fill="#20242E"></path>
+    </g>
+</svg>

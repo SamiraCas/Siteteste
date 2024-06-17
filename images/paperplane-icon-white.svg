@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>paperplane-icon-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="paperplane-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2.59375,5.34375 L3.03125,7.21875 L4.96875,16 L3.03125,24.78125 L2.59375,26.65625 L4.375,25.9375 L26.375,16.9375 L28.65625,16 L26.375,15.0625 L4.375,6.0625 L2.59375,5.34375 Z M5.375,8.65625 L20.90625,15 L6.78125,15 L5.375,8.65625 Z M6.78125,17 L20.90625,17 L5.375,23.34375 L6.78125,17 Z" id="icon" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
